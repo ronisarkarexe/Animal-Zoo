@@ -1,0 +1,46 @@
+.main-bg-color{
+  background-color: #E3E6E3;
+  font-family: 'Times New Roman', Times, serif;
+}
+.cat-zoo{
+  font-size: 45px;
+}
+.animal-zoz{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+}
+.text-f-c{
+  font-family: 'Times New Roman', Times, serif;
+}
+.animalZooSlid{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius:4px;
+  height:285px;
+  width: 300px;
+  background-color: #f1f2f1;
+}
+.image-fluid-size{
+  max-width: 260px;
+  max-height:180px;
+}
+.img-fluid-src{
+  max-width: 260px;
+  max-height:180px;
+}
+.image-height{
+  height:184px;
+}
+.button-click{
+  border: none;
+  background-color: #f1f2f1;
+  font-size: 15px;
+}
+.name-button{
+  border: none;
+  background-color: #f1f2f1;
+  font-size: 18px;
+}
+.fa-color{
+  color: rgb(140, 140, 70);
+}
